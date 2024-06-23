@@ -16,3 +16,6 @@ Actions： W,a,s,d,move. Jump with space, shoot with a V moving camera with mous
 Characters shoot bullets to monsters to kill them and pass the puzzle map to reach the portal.
 If you are touched by the monsters, you will die.
 Ending the game: Reach the final portal
+
+
+[![Watch the video](/assets/demo.mp4 'Codey the Codecademy mascot')]
