@@ -18,4 +18,4 @@ If you are touched by the monsters, you will die.
 Ending the game: Reach the final portal
 
 
-[![Watch the video](/assets/demo.mp4 'Codey the Codecademy mascot')]
+[![Watch the video](/assets/demo.mp4 'Demo video')]
